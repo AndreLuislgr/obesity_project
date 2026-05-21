@@ -116,6 +116,3 @@ obesity_project/
 
 Este sistema é uma ferramenta de **apoio à decisão médica** baseada em dados. O diagnóstico final é de responsabilidade exclusiva do médico. O modelo foi treinado em dados sintéticos/augmentados e deve ser validado clinicamente antes de uso em ambiente real.
 
-## 👥 Equipe
-
-Desenvolvido como Tech Challenge da Pós-Tech em Data Analytics — FIAP.
