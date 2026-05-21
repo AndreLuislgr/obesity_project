@@ -162,7 +162,7 @@ st.markdown("""
 # ──────────────────────────────────────────────────
 with st.sidebar:
     st.image("https://img.icons8.com/color/96/hospital.png", width=60)
-    st.title("ObesityAI")
+    
     st.caption("Sistema de Apoio à Decisão Médica")
     st.divider()
     page = st.radio(
