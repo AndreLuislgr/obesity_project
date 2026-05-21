@@ -1,4 +1,4 @@
-# 🏥 ObesityAI — Sistema Preditivo de Obesidade
+# 🏥 Sistema Preditivo de Obesidade
 **Tech Challenge — FIAP Pós-Tech Data Analytics**
 
 ## 📋 Sobre o Projeto
