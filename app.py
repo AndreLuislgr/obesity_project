@@ -15,7 +15,7 @@ import os
 # PAGE CONFIG
 # ──────────────────────────────────────────────────
 st.set_page_config(
-    page_title="ObesityAI — Sistema Preditivo",
+    page_title="Sistema Preditivo de Obesidade",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded",
